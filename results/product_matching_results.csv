@@ -1,0 +1,2206 @@
+Pdf file name ,Extracted Api Response,Product Name,Origin,Destination,Shipper,input_product,matched_product,match_type,confidence,method,etrm_id,etrm_code,llm_validated
+124298-044996SH.pdf,"{
+  ""status"": ""success"",
+  ""message"": ""File uploaded and processed successfully"",
+  ""blob_url"": ""https://weaveagentsblob.blob.core.windows.net/agent-video/124298-044996SH.pdf?se=2025-07-11T13%3A06%3A22Z&sp=r&sv=2025-05-05&sr=b&sig=lKCc/0OrNvqOMkACzU9FdOCtvnjj4MXDivnO8idVBmA%3D"",
+  ""mongo_id"": ""687108e5a6effb6ff3cc37ee"",
+  ""extracted_data"": {
+    ""ShippingDocument"": {
+      ""Title"": ""Dangerous - Shipping Document - Straight Bill of Lading"",
+      ""ShippersBOLNo"": ""044996SH"",
+      ""Revision"": ""0"",
+      ""EmergencyPlanPhone"": ""800-265-0212"",
+      ""24HourNumberCanada"": ""6139966666-Contact: CONTRACT-2-P-0616"",
+      ""EmergencyContactUS"": ""N/A"",
+      ""CarInfo"": {
+        ""CarNo"": ""SHQX 051719"",
+        ""BillType"": ""R"",
+        ""Destination"": ""NANTICOKE, ON"",
+        ""Origin"": ""SARNIA, ON"",
+        ""Routing"": ""CN"",
+        ""SwitchingInfo"": ""N/A""
+      },
+      ""CareOf/ShipTo"": ""N/A"",
+      ""Consignee"": {
+        ""Name"": ""IMPERIAL OIL"",
+        ""Address"": ""225 CONCESSION 2 NANTICOKE, ON N0A 1L0""
+      },
+      ""Shipper"": {
+        ""Name"": ""PLAINS MIDSTREAM CANADA ULC"",
+        ""Address"": ""1182 PLANK ROAD SARNIA, ON N7T 7H9""
+      },
+      ""FreightCharges"": {
+        ""Name"": ""IMPERIAL OIL PRODS CHEMS DIV"",
+        ""Address"": ""225 CONCESSION 2 NANTICOKE, ON N0A 1L0""
+      },
+      ""Lessee"": ""Sect 7: NO"",
+      ""FreightDetails"": {
+        ""Freight"": ""P"",
+        ""FOB"": """",
+        ""Rule-11"": ""N/A"",
+        ""Parties"": ""N/A""
+      },
+      ""RRContract"": {
+        ""ReferenceNo"": ""SH20205620003"",
+        ""AESExportInfoCodeExemptionNo"": ""N/A"",
+        ""ConsigneesOrderNumber"": ""N/A"",
+        ""LoadDate"": ""06/15/2025"",
+        ""PurchaseOrderNumber"": ""N/A"",
+        ""ScheduleAgreement"": ""N/A""
+      },
+      ""ProductDetails"": {
+        ""Product"": ""ISO BUTANE NON ODORIZED"",
+        ""STCCCode"": ""4905423""
+      },
+      ""HazmatInformation"": {
+        ""UNNumber"": ""UN1075"",
+        ""ProperShippingName"": ""LIQUEFIED PETROLEUM GAS/2.1//NON-ODORIZED"",
+        ""HazardClass"": ""2.1"",
+        ""PackingGroup"": ""N/A"",
+        ""RQ"": ""N/A""
+      },
+      ""Placards"": ""FLAMMABLE GAS 2.1\n4 PLACARDS APPLIED"",
+      ""SpecialCommodityInd"": ""Y"",
+      ""PackagesDetails"": {
+        ""NumberOfPackages"": ""1 RAILCAR"",
+        ""SealNumbers"": ""C812336""
+      },
+      ""CarCapacity"": {
+        ""Gallons"": {
+          ""Table"": ""N/A"",
+          ""INS"": ""N/A"",
+          ""GL+VC"": ""N/A""
+        },
+        ""Outage"": {
+          ""Gallons"": ""N/A"",
+          ""Loaded"": {
+            ""OriginWeights"": {
+              ""Gallons"": {
+                ""GAL@60"": {
+                  ""Value"": ""33,710""
+                },
+                ""GAL"": {
+                  ""Value"": ""N/A""
+                }
+              },
+              ""VCF"": ""14,000"",
+              ""Density"": ""N/A"",
+              ""Temp"": ""N/A"",
+              ""LBS/Gal"": ""N/A"",
+              ""Litres"": ""N/A"",
+              ""Kilograms"": ""N/A""
+            }
+          }
+        }
+      },
+      ""Comments"": ""If the product is Stenched Propane, please be advised that under certain conditions the odorat Ethyl Mercaptan may fade or diminish in intensity due to oxidation absorption or impaired sense of smell..."",
+      ""Certification"": {
+        ""Statement"": ""This is to certify that the above-named materials are properly classified, described, packaged, marked and labeled, and are in proper condition for transportation according to the applicable regulations of the Department of Transportation."",
+        ""SignedBy"": ""MARK GIBSON"",
+        ""Signature"": """"
+      }
+    }
+  }
+}",ISO BUTANE NON ODORIZED,"SARNIA, ON","NANTICOKE, ON",PLAINS MIDSTREAM CANADA ULC,ISO BUTANE NON ODORIZED,propane (refinery grade odorized),Semantic,0.0,hungarian,1684.0,400007933.0,False
+124310-IARX214118_PL726105FS.PDF,"{
+  ""status"": ""success"",
+  ""message"": ""File uploaded and processed successfully"",
+  ""blob_url"": ""https://weaveagentsblob.blob.core.windows.net/agent-video/124310-IARX214118_PL726105FS.PDF?se=2025-07-11T13%3A08%3A17Z&sp=r&sv=2025-05-05&sr=b&sig=IRbqEuZMIbXts6icshoXqryKH3DGDpZBfjwHeq1XBfw%3D"",
+  ""mongo_id"": ""68710951a6effb6ff3cc37ef"",
+  ""extracted_data"": {
+    ""ShippingDocument"": {
+      ""Title"": ""Straight Bill of Lading - Short Form - Railcar"",
+      ""ShippersBOLNo"": ""PLZ26105FS"",
+      ""Revision"": ""N/A"",
+      ""EmergencyPlanPhone"": ""613-996-6666"",
+      ""24HourNumberCanada"": ""2-P-616 - US 24-Hour number call: 1 (800) 424-9300 CCN 17406"",
+      ""EmergencyContactUS"": {
+        ""Contract"": ""N/A"",
+        ""Phone"": ""1 (800) 424-9300""
+      },
+      ""CarInfo"": {
+        ""CarNo"": ""IARX214118"",
+        ""BillType"": ""N/A"",
+        ""Destination"": ""LIMA SAN LUIS POTOSI,SL"",
+        ""Origin"": ""SCOTFORD, AB"",
+        ""Routing"": ""CPRS/LAREDO/KCSM""
+      },
+      ""CareOf/ShipTo"": {
+        ""Name"": ""TERMI-CENTRO, S.A. DE C.V"",
+        ""Address"": ""PROL. VENUSTIANO CARRANZA, EJIDO LA PILA MUNICIPIO DE SAN LUIS SAN LUIS POTOSI, SL, 78426""
+      },
+      ""Consignee"": {
+        ""Name"": ""UTI WORLDWIDE"",
+        ""Address"": ""4424 W SAM HOUSTON PKWY NORTH, SUITE 500, HOUSTON, TX, 77041""
+      },
+      ""Shipper"": {
+        ""Name"": ""UNITED ENERGY TRADING CANADA, ULC"",
+        ""Address"": ""SUITE 2720, 140 4TH AVENUE SW, CALGARY, AB, T2P3N3""
+      },
+      ""FreightCharges"": {
+        ""Name"": ""CPRS NEW WORLD FUEL SA DE CV"",
+        ""Address"": ""Monterrey, MX""
+      },
+      ""Lessee"": ""N/A"",
+      ""FreightDetails"": {
+        ""Freight"": ""COLLECT"",
+        ""FOB"": """",
+        ""Rule-11"": ""YES"",
+        ""Parties"": {
+          ""11"": ""CPRS - UNITED ENERGY TRADING - CALGARY"",
+          ""1M"": ""N/A"",
+          ""XX"": ""CNR CUSTOMS BROKERAGE SERVICES - PORT HURON, MI""
+        }
+      },
+      ""RRContract"": {
+        ""ReferenceNo"": ""ST2L2123PAF0003-69-PFS-FEP-PLAINS"",
+        ""AESExportInfoCodeExemptionNo"": ""ERP-069-2025"",
+        ""ConsigneesOrderNumber"": [
+          ""N/A""
+        ],
+        ""LoadDate"": ""06/14/2025"",
+        ""PurchaseOrderNumber"": ""N/A"",
+        ""ScheduleAgreement"": ""N/A""
+      },
+      ""ProductDetails"": {
+        ""Product"": ""UN1075 LIQUEFIED PETROLEUM GASES ODORIZED (PROPANE)"",
+        ""STCCCode"": ""4905411""
+      },
+      ""HazmatInformation"": {
+        ""UNNumber"": ""1075"",
+        ""ProperShippingName"": ""LIQUEFIED PETROLEUM GASES ODORIZED (PROPANE)"",
+        ""HazardClass"": ""2.1"",
+        ""PackingGroup"": ""N/A"",
+        ""RQ"": ""N/A""
+      },
+      ""Placards"": ""HAZMAT PLACARDED FLAMMABLE GASES - ERAP Phone (800) 265-0212"",
+      ""SpecialCommodityInd"": ""N/A"",
+      ""PackagesDetails"": {
+        ""NumberOfPackages"": ""N/A"",
+        ""SealNumbers"": ""503052""
+      },
+      ""CarCapacity"": {
+        ""Gallons"": {
+          ""Table"": ""6007"",
+          ""INS"": ""13.00"",
+          ""GL+VC"": ""33,770""
+        },
+        ""Outage"": {
+          ""Gallons"": ""33,770"",
+          ""Loaded"": {
+            ""OriginWeights"": {
+              ""Gallons"": {
+                ""GAL@60"": {
+                  ""Value"": ""N/A""
+                },
+                ""GAL"": {
+                  ""Value"": ""N/A""
+                }
+              },
+              ""VCF"": ""N/A"",
+              ""Density"": ""0.5540"",
+              ""Temp"": ""86°F"",
+              ""LBS/Gal"": ""N/A"",
+              ""Litres"": ""119,664.4"",
+              ""Kilograms"": ""57,118.91""
+            }
+          }
+        }
+      },
+      ""Comments"": ""N/A"",
+      ""Certification"": {
+        ""Statement"": ""I hereby declare that the contents of this consignment are fully and accurately described above, are properly classified and packaged, have dangerous goods safety marks properly affixed or displayed on them, and are in all respects in proper condition for transportation according to the Transportation of Dangerous Goods Regulations."",
+        ""SignedBy"": ""Mark Woods"",
+        ""Signature"": ""N/A""
+      }
+    }
+  }
+}",UN1075 LIQUEFIED PETROLEUM GASES ODORIZED (PROPANE),"SCOTFORD, AB","LIMA SAN LUIS POTOSI,SL","UNITED ENERGY TRADING CANADA, ULC",UN1075 LIQUEFIED PETROLEUM GASES ODORIZED (PROPANE),propane hd5 (odorized),Semantic,0.0,hungarian,1723.0,400007548.0,False
+124312-SHD-0525-268.pdf,"{
+  ""status"": ""success"",
+  ""message"": ""File uploaded and processed successfully"",
+  ""blob_url"": ""https://weaveagentsblob.blob.core.windows.net/agent-video/124312-SHD-0525-268.pdf?se=2025-07-11T13%3A14%3A50Z&sp=r&sv=2025-05-05&sr=b&sig=oQpPkf%2BPi8PfWNLQogGSWuWivY64meEbEdlFJuEc9I0%3D"",
+  ""mongo_id"": ""68710ad6a6effb6ff3cc37f0"",
+  ""extracted_data"": {
+    ""ShippingDocument"": {
+      ""Title"": ""Bill of Lading for Individual Shipment (ITC Pattern ID: EAGLE PASS)"",
+      ""ShippersBOLNo"": ""SHD-0525-268"",
+      ""Revision"": ""N/A"",
+      ""EmergencyPlanPhone"": ""N/A"",
+      ""24HourNumberCanada"": ""N/A"",
+      ""EmergencyContactUS"": {
+        ""Contract"": ""N/A"",
+        ""Phone"": ""N/A""
+      },
+      ""CarInfo"": {
+        ""CarNo"": ""UTLX211802"",
+        ""BillType"": ""RR"",
+        ""Destination"": ""JAYHAWK, NV"",
+        ""Origin"": ""PASADENA, TX"",
+        ""Routing"": ""PTRA HUSTN UP"",
+        ""SwitchingInfo"": ""S""
+      },
+      ""CareOf/ShipTo"": {
+        ""Name"": ""N/A"",
+        ""Address"": ""N/A""
+      },
+      ""Consignee"": {
+        ""Name"": ""SHELL TRADING US COMPANY"",
+        ""Address"": ""1000 MAIN STREET, LEVEL 12, HOUSTON, TX 77002""
+      },
+      ""Shipper"": {
+        ""Name"": ""SHELL TRADING CANADA"",
+        ""Address"": ""400 4TH AVENUE SW, CALGARY, AB T2P 0J1""
+      },
+      ""FreightCharges"": {
+        ""Name"": ""N/A"",
+        ""Address"": ""N/A""
+      },
+      ""Lessee"": ""Sect 7: No"",
+      ""FreightDetails"": {
+        ""Freight"": ""PP"",
+        ""FOB"": """",
+        ""Rule-11"": ""N/A"",
+        ""Parties"": {
+          ""11"": ""SHELL TRADING CANADA - CALGARY, AB"",
+          ""1M"": ""N/A"",
+          ""XX"": ""NEVADA GOLD MINES LLC - BATTLE MOUNTAIN, NV""
+        }
+      },
+      ""RRContract"": {
+        ""ReferenceNo"": ""N/A"",
+        ""AESExportInfoCodeExemptionNo"": ""N/A"",
+        ""ConsigneesOrderNumber"": [],
+        ""LoadDate"": ""2025-05-29 09:17:53.58"",
+        ""PurchaseOrderNumber"": ""N/A"",
+        ""ScheduleAgreement"": ""N/A""
+      },
+      ""ProductDetails"": {
+        ""Product"": ""ULSD"",
+        ""STCCCode"": ""2911331""
+      },
+      ""HazmatInformation"": {
+        ""UNNumber"": ""N/A"",
+        ""ProperShippingName"": ""N/A"",
+        ""HazardClass"": ""N/A"",
+        ""PackingGroup"": ""N/A"",
+        ""RQ"": ""N/A""
+      },
+      ""Placards"": """",
+      ""SpecialCommodityInd"": """",
+      ""PackagesDetails"": {
+        ""NumberOfPackages"": ""N/A"",
+        ""SealNumbers"": ""912998, 920242, 920243, 920244""
+      },
+      ""CarCapacity"": {
+        ""Gallons"": {
+          ""Table"": """",
+          ""INS"": """",
+          ""GL+VC"": """"
+        },
+        ""Outage"": {
+          ""Gallons"": """",
+          ""Loaded"": {
+            ""OriginWeights"": {
+              ""Gallons"": {
+                ""GAL@60"": {
+                  ""Value"": ""N/A""
+                },
+                ""GAL"": {
+                  ""Value"": ""N/A""
+                }
+              },
+              ""VCF"": """",
+              ""Density"": """",
+              ""Temp"": """",
+              ""LBS/Gal"": """",
+              ""Litres"": ""N/A"",
+              ""Kilograms"": ""N/A""
+            }
+          }
+        }
+      },
+      ""Comments"": ""N/A"",
+      ""Certification"": {
+        ""Statement"": ""N/A"",
+        ""SignedBy"": ""N/A"",
+        ""Signature"": """"
+      }
+    }
+  }
+}",ULSD,"PASADENA, TX","JAYHAWK, NV",SHELL TRADING CANADA,ULSD,,No Match,0.4488915205001831,hungarian,,,False
+124312-SHD-0525-268.pdf,"{
+  ""status"": ""success"",
+  ""message"": ""File uploaded and processed successfully"",
+  ""blob_url"": ""https://weaveagentsblob.blob.core.windows.net/agent-video/124312-SHD-0525-268.pdf?se=2025-07-11T13%3A14%3A50Z&sp=r&sv=2025-05-05&sr=b&sig=oQpPkf%2BPi8PfWNLQogGSWuWivY64meEbEdlFJuEc9I0%3D"",
+  ""mongo_id"": ""68710ad6a6effb6ff3cc37f0"",
+  ""extracted_data"": {
+    ""ShippingDocument"": {
+      ""Title"": ""Bill of Lading for Individual Shipment (ITC Pattern ID: EAGLE PASS)"",
+      ""ShippersBOLNo"": ""SHD-0525-268"",
+      ""Revision"": ""N/A"",
+      ""EmergencyPlanPhone"": ""N/A"",
+      ""24HourNumberCanada"": ""N/A"",
+      ""EmergencyContactUS"": {
+        ""Contract"": ""N/A"",
+        ""Phone"": ""N/A""
+      },
+      ""CarInfo"": {
+        ""CarNo"": ""UTLX211802"",
+        ""BillType"": ""RR"",
+        ""Destination"": ""JAYHAWK, NV"",
+        ""Origin"": ""PASADENA, TX"",
+        ""Routing"": ""PTRA HUSTN UP"",
+        ""SwitchingInfo"": ""S""
+      },
+      ""CareOf/ShipTo"": {
+        ""Name"": ""N/A"",
+        ""Address"": ""N/A""
+      },
+      ""Consignee"": {
+        ""Name"": ""SHELL TRADING US COMPANY"",
+        ""Address"": ""1000 MAIN STREET, LEVEL 12, HOUSTON, TX 77002""
+      },
+      ""Shipper"": {
+        ""Name"": ""SHELL TRADING CANADA"",
+        ""Address"": ""400 4TH AVENUE SW, CALGARY, AB T2P 0J1""
+      },
+      ""FreightCharges"": {
+        ""Name"": ""N/A"",
+        ""Address"": ""N/A""
+      },
+      ""Lessee"": ""Sect 7: No"",
+      ""FreightDetails"": {
+        ""Freight"": ""PP"",
+        ""FOB"": """",
+        ""Rule-11"": ""N/A"",
+        ""Parties"": {
+          ""11"": ""SHELL TRADING CANADA - CALGARY, AB"",
+          ""1M"": ""N/A"",
+          ""XX"": ""NEVADA GOLD MINES LLC - BATTLE MOUNTAIN, NV""
+        }
+      },
+      ""RRContract"": {
+        ""ReferenceNo"": ""N/A"",
+        ""AESExportInfoCodeExemptionNo"": ""N/A"",
+        ""ConsigneesOrderNumber"": [],
+        ""LoadDate"": ""2025-05-29 09:17:53.58"",
+        ""PurchaseOrderNumber"": ""N/A"",
+        ""ScheduleAgreement"": ""N/A""
+      },
+      ""ProductDetails"": {
+        ""Product"": ""ULSD"",
+        ""STCCCode"": ""2911331""
+      },
+      ""HazmatInformation"": {
+        ""UNNumber"": ""N/A"",
+        ""ProperShippingName"": ""N/A"",
+        ""HazardClass"": ""N/A"",
+        ""PackingGroup"": ""N/A"",
+        ""RQ"": ""N/A""
+      },
+      ""Placards"": """",
+      ""SpecialCommodityInd"": """",
+      ""PackagesDetails"": {
+        ""NumberOfPackages"": ""N/A"",
+        ""SealNumbers"": ""912998, 920242, 920243, 920244""
+      },
+      ""CarCapacity"": {
+        ""Gallons"": {
+          ""Table"": """",
+          ""INS"": """",
+          ""GL+VC"": """"
+        },
+        ""Outage"": {
+          ""Gallons"": """",
+          ""Loaded"": {
+            ""OriginWeights"": {
+              ""Gallons"": {
+                ""GAL@60"": {
+                  ""Value"": ""N/A""
+                },
+                ""GAL"": {
+                  ""Value"": ""N/A""
+                }
+              },
+              ""VCF"": """",
+              ""Density"": """",
+              ""Temp"": """",
+              ""LBS/Gal"": """",
+              ""Litres"": ""N/A"",
+              ""Kilograms"": ""N/A""
+            }
+          }
+        }
+      },
+      ""Comments"": ""N/A"",
+      ""Certification"": {
+        ""Statement"": ""N/A"",
+        ""SignedBy"": ""N/A"",
+        ""Signature"": """"
+      }
+    }
+  }
+}",ULSD,"PASADENA, TX","JAYHAWK, NV",SHELL TRADING CANADA,ULSD,,No Match,0.6191496253013611,hungarian,,,False
+124312-SHD-0525-268.pdf,"{
+  ""status"": ""success"",
+  ""message"": ""File uploaded and processed successfully"",
+  ""blob_url"": ""https://weaveagentsblob.blob.core.windows.net/agent-video/124312-SHD-0525-268.pdf?se=2025-07-11T13%3A14%3A50Z&sp=r&sv=2025-05-05&sr=b&sig=oQpPkf%2BPi8PfWNLQogGSWuWivY64meEbEdlFJuEc9I0%3D"",
+  ""mongo_id"": ""68710ad6a6effb6ff3cc37f0"",
+  ""extracted_data"": {
+    ""ShippingDocument"": {
+      ""Title"": ""Bill of Lading for Individual Shipment (ITC Pattern ID: EAGLE PASS)"",
+      ""ShippersBOLNo"": ""SHD-0525-268"",
+      ""Revision"": ""N/A"",
+      ""EmergencyPlanPhone"": ""N/A"",
+      ""24HourNumberCanada"": ""N/A"",
+      ""EmergencyContactUS"": {
+        ""Contract"": ""N/A"",
+        ""Phone"": ""N/A""
+      },
+      ""CarInfo"": {
+        ""CarNo"": ""UTLX211802"",
+        ""BillType"": ""RR"",
+        ""Destination"": ""JAYHAWK, NV"",
+        ""Origin"": ""PASADENA, TX"",
+        ""Routing"": ""PTRA HUSTN UP"",
+        ""SwitchingInfo"": ""S""
+      },
+      ""CareOf/ShipTo"": {
+        ""Name"": ""N/A"",
+        ""Address"": ""N/A""
+      },
+      ""Consignee"": {
+        ""Name"": ""SHELL TRADING US COMPANY"",
+        ""Address"": ""1000 MAIN STREET, LEVEL 12, HOUSTON, TX 77002""
+      },
+      ""Shipper"": {
+        ""Name"": ""SHELL TRADING CANADA"",
+        ""Address"": ""400 4TH AVENUE SW, CALGARY, AB T2P 0J1""
+      },
+      ""FreightCharges"": {
+        ""Name"": ""N/A"",
+        ""Address"": ""N/A""
+      },
+      ""Lessee"": ""Sect 7: No"",
+      ""FreightDetails"": {
+        ""Freight"": ""PP"",
+        ""FOB"": """",
+        ""Rule-11"": ""N/A"",
+        ""Parties"": {
+          ""11"": ""SHELL TRADING CANADA - CALGARY, AB"",
+          ""1M"": ""N/A"",
+          ""XX"": ""NEVADA GOLD MINES LLC - BATTLE MOUNTAIN, NV""
+        }
+      },
+      ""RRContract"": {
+        ""ReferenceNo"": ""N/A"",
+        ""AESExportInfoCodeExemptionNo"": ""N/A"",
+        ""ConsigneesOrderNumber"": [],
+        ""LoadDate"": ""2025-05-29 09:17:53.58"",
+        ""PurchaseOrderNumber"": ""N/A"",
+        ""ScheduleAgreement"": ""N/A""
+      },
+      ""ProductDetails"": {
+        ""Product"": ""ULSD"",
+        ""STCCCode"": ""2911331""
+      },
+      ""HazmatInformation"": {
+        ""UNNumber"": ""N/A"",
+        ""ProperShippingName"": ""N/A"",
+        ""HazardClass"": ""N/A"",
+        ""PackingGroup"": ""N/A"",
+        ""RQ"": ""N/A""
+      },
+      ""Placards"": """",
+      ""SpecialCommodityInd"": """",
+      ""PackagesDetails"": {
+        ""NumberOfPackages"": ""N/A"",
+        ""SealNumbers"": ""912998, 920242, 920243, 920244""
+      },
+      ""CarCapacity"": {
+        ""Gallons"": {
+          ""Table"": """",
+          ""INS"": """",
+          ""GL+VC"": """"
+        },
+        ""Outage"": {
+          ""Gallons"": """",
+          ""Loaded"": {
+            ""OriginWeights"": {
+              ""Gallons"": {
+                ""GAL@60"": {
+                  ""Value"": ""N/A""
+                },
+                ""GAL"": {
+                  ""Value"": ""N/A""
+                }
+              },
+              ""VCF"": """",
+              ""Density"": """",
+              ""Temp"": """",
+              ""LBS/Gal"": """",
+              ""Litres"": ""N/A"",
+              ""Kilograms"": ""N/A""
+            }
+          }
+        }
+      },
+      ""Comments"": ""N/A"",
+      ""Certification"": {
+        ""Statement"": ""N/A"",
+        ""SignedBy"": ""N/A"",
+        ""Signature"": """"
+      }
+    }
+  }
+}",ULSD,"PASADENA, TX","JAYHAWK, NV",SHELL TRADING CANADA,ULSD,,No Match,0.42044511437416077,hungarian,,,False
+124314-CIP00109PS-19-1_253746-1_20250614.pdf,"{
+  ""status"": ""success"",
+  ""message"": ""File uploaded and processed successfully"",
+  ""blob_url"": ""https://weaveagentsblob.blob.core.windows.net/agent-video/124314-CIP00109PS-19-1_253746-1_20250614.pdf?se=2025-07-11T13%3A17%3A01Z&sp=r&sv=2025-05-05&sr=b&sig=1ItcrH0yFpPROltlWuX%2BntTXTwtioqRS6MuyT4eXJuE%3D"",
+  ""mongo_id"": ""68710b64a6effb6ff3cc37f1"",
+  ""extracted_data"": {
+    ""ShippingDocument"": {
+      ""Title"": ""Bill of Lading for Individual Shipment (ITC Pattern ID: NULL)"",
+      ""ShippersBOLNo"": ""CIP00109PS-19-1"",
+      ""Revision"": ""N/A"",
+      ""EmergencyPlanPhone"": ""CHEMTREC 800-424-9300"",
+      ""24HourNumberCanada"": ""N/A"",
+      ""EmergencyContactUS"": {
+        ""Contract"": ""N/A"",
+        ""Phone"": ""800-424-9300""
+      },
+      ""CarInfo"": {
+        ""CarNo"": ""PROX075016"",
+        ""BillType"": ""N/A"",
+        ""Destination"": ""BROWNSVILLE, TX"",
+        ""Origin"": ""DEER PARK, TX"",
+        ""Routing"": ""N/A"",
+        ""SwitchingInfo"": ""N/A""
+      },
+      ""CareOf/ShipTo"": {
+        ""Name"": ""INTERLUBE"",
+        ""Address"": ""750 W ANCHOR RD BROWNSVILLE, TX 77598""
+      },
+      ""Consignee"": {
+        ""Name"": ""INTERLUBE"",
+        ""Address"": ""750 W ANCHOR RD BROWNSVILLE, TX 77598""
+      },
+      ""Shipper"": {
+        ""Name"": ""INTERCONTINENTAL TERMINALS"",
+        ""Address"": ""2627 TIDAL ROAD DEER PARK, TX 77536""
+      },
+      ""FreightCharges"": {
+        ""Name"": ""SHELL LUBRICANTS"",
+        ""Address"": ""910 LOUISIANA HOUSTON, TX 77008""
+      },
+      ""Lessee"": ""Sect 7: NO"",
+      ""FreightDetails"": {
+        ""Freight"": ""PP"",
+        ""FOB"": """",
+        ""Rule-11"": ""N"",
+        ""Parties"": {
+          ""11"": ""N/A"",
+          ""1M"": ""N/A"",
+          ""XX"": ""N/A""
+        }
+      },
+      ""RRContract"": {
+        ""ReferenceNo"": ""253746-1"",
+        ""AESExportInfoCodeExemptionNo"": ""N/A"",
+        ""ConsigneesOrderNumber"": [
+          ""253746-1"",
+          ""913954496""
+        ],
+        ""LoadDate"": ""2025-06-14"",
+        ""PurchaseOrderNumber"": ""N/A"",
+        ""ScheduleAgreement"": ""N/A""
+      },
+      ""ProductDetails"": {
+        ""Product"": ""PETRO OIL NEC"",
+        ""STCCCode"": ""2911791""
+      },
+      ""HazmatInformation"": {
+        ""UNNumber"": ""N/A"",
+        ""ProperShippingName"": ""N/A"",
+        ""HazardClass"": ""XHVI - 4"",
+        ""PackingGroup"": ""N/A"",
+        ""RQ"": ""N/A""
+      },
+      ""Placards"": """",
+      ""SpecialCommodityInd"": """",
+      ""PackagesDetails"": {
+        ""NumberOfPackages"": ""1 RAILCAR"",
+        ""SealNumbers"": ""816584, 816597, 900593""
+      },
+      ""CarCapacity"": {
+        ""Gallons"": {
+          ""Table"": """",
+          ""INS"": """",
+          ""GL+VC"": """"
+        },
+        ""Outage"": {
+          ""Gallons"": """",
+          ""Loaded"": {
+            ""OriginWeights"": {
+              ""Gallons"": {
+                ""GAL@60"": {
+                  ""Value"": ""24758""
+                },
+                ""GAL"": {
+                  ""Value"": ""N/A""
+                }
+              },
+              ""VCF"": """",
+              ""Density"": """",
+              ""Temp"": """",
+              ""LBS/Gal"": """",
+              ""Litres"": ""N/A"",
+              ""Kilograms"": ""N/A""
+            }
+          }
+        }
+      },
+      ""Comments"": ""N/A"",
+      ""Certification"": {
+        ""Statement"": ""N/A"",
+        ""SignedBy"": ""N/A"",
+        ""Signature"": """"
+      }
+    }
+  }
+}",PETRO OIL NEC,"DEER PARK, TX","BROWNSVILLE, TX",INTERCONTINENTAL TERMINALS,PETRO OIL NEC,,No Match,0.6316595077514648,hungarian,,,False
+124314-CIP00109PS-19-1_253746-1_20250614.pdf,"{
+  ""status"": ""success"",
+  ""message"": ""File uploaded and processed successfully"",
+  ""blob_url"": ""https://weaveagentsblob.blob.core.windows.net/agent-video/124314-CIP00109PS-19-1_253746-1_20250614.pdf?se=2025-07-11T13%3A17%3A01Z&sp=r&sv=2025-05-05&sr=b&sig=1ItcrH0yFpPROltlWuX%2BntTXTwtioqRS6MuyT4eXJuE%3D"",
+  ""mongo_id"": ""68710b64a6effb6ff3cc37f1"",
+  ""extracted_data"": {
+    ""ShippingDocument"": {
+      ""Title"": ""Bill of Lading for Individual Shipment (ITC Pattern ID: NULL)"",
+      ""ShippersBOLNo"": ""CIP00109PS-19-1"",
+      ""Revision"": ""N/A"",
+      ""EmergencyPlanPhone"": ""CHEMTREC 800-424-9300"",
+      ""24HourNumberCanada"": ""N/A"",
+      ""EmergencyContactUS"": {
+        ""Contract"": ""N/A"",
+        ""Phone"": ""800-424-9300""
+      },
+      ""CarInfo"": {
+        ""CarNo"": ""PROX075016"",
+        ""BillType"": ""N/A"",
+        ""Destination"": ""BROWNSVILLE, TX"",
+        ""Origin"": ""DEER PARK, TX"",
+        ""Routing"": ""N/A"",
+        ""SwitchingInfo"": ""N/A""
+      },
+      ""CareOf/ShipTo"": {
+        ""Name"": ""INTERLUBE"",
+        ""Address"": ""750 W ANCHOR RD BROWNSVILLE, TX 77598""
+      },
+      ""Consignee"": {
+        ""Name"": ""INTERLUBE"",
+        ""Address"": ""750 W ANCHOR RD BROWNSVILLE, TX 77598""
+      },
+      ""Shipper"": {
+        ""Name"": ""INTERCONTINENTAL TERMINALS"",
+        ""Address"": ""2627 TIDAL ROAD DEER PARK, TX 77536""
+      },
+      ""FreightCharges"": {
+        ""Name"": ""SHELL LUBRICANTS"",
+        ""Address"": ""910 LOUISIANA HOUSTON, TX 77008""
+      },
+      ""Lessee"": ""Sect 7: NO"",
+      ""FreightDetails"": {
+        ""Freight"": ""PP"",
+        ""FOB"": """",
+        ""Rule-11"": ""N"",
+        ""Parties"": {
+          ""11"": ""N/A"",
+          ""1M"": ""N/A"",
+          ""XX"": ""N/A""
+        }
+      },
+      ""RRContract"": {
+        ""ReferenceNo"": ""253746-1"",
+        ""AESExportInfoCodeExemptionNo"": ""N/A"",
+        ""ConsigneesOrderNumber"": [
+          ""253746-1"",
+          ""913954496""
+        ],
+        ""LoadDate"": ""2025-06-14"",
+        ""PurchaseOrderNumber"": ""N/A"",
+        ""ScheduleAgreement"": ""N/A""
+      },
+      ""ProductDetails"": {
+        ""Product"": ""PETRO OIL NEC"",
+        ""STCCCode"": ""2911791""
+      },
+      ""HazmatInformation"": {
+        ""UNNumber"": ""N/A"",
+        ""ProperShippingName"": ""N/A"",
+        ""HazardClass"": ""XHVI - 4"",
+        ""PackingGroup"": ""N/A"",
+        ""RQ"": ""N/A""
+      },
+      ""Placards"": """",
+      ""SpecialCommodityInd"": """",
+      ""PackagesDetails"": {
+        ""NumberOfPackages"": ""1 RAILCAR"",
+        ""SealNumbers"": ""816584, 816597, 900593""
+      },
+      ""CarCapacity"": {
+        ""Gallons"": {
+          ""Table"": """",
+          ""INS"": """",
+          ""GL+VC"": """"
+        },
+        ""Outage"": {
+          ""Gallons"": """",
+          ""Loaded"": {
+            ""OriginWeights"": {
+              ""Gallons"": {
+                ""GAL@60"": {
+                  ""Value"": ""24758""
+                },
+                ""GAL"": {
+                  ""Value"": ""N/A""
+                }
+              },
+              ""VCF"": """",
+              ""Density"": """",
+              ""Temp"": """",
+              ""LBS/Gal"": """",
+              ""Litres"": ""N/A"",
+              ""Kilograms"": ""N/A""
+            }
+          }
+        }
+      },
+      ""Comments"": ""N/A"",
+      ""Certification"": {
+        ""Statement"": ""N/A"",
+        ""SignedBy"": ""N/A"",
+        ""Signature"": """"
+      }
+    }
+  }
+}",PETRO OIL NEC,"DEER PARK, TX","BROWNSVILLE, TX",INTERCONTINENTAL TERMINALS,PETRO OIL NEC,,No Match,0.6077498197555542,hungarian,,,False
+124316-044035LM.pdf,"{
+  ""status"": ""success"",
+  ""message"": ""File uploaded and processed successfully"",
+  ""blob_url"": ""https://weaveagentsblob.blob.core.windows.net/agent-video/124316-044035LM.pdf?se=2025-07-11T13%3A18%3A06Z&sp=r&sv=2025-05-05&sr=b&sig=8j4mZcHq0fqr3MonSnZBmUpvz8/m0SfZfb1sXLgPf1k%3D"",
+  ""mongo_id"": ""68710ba1a6effb6ff3cc37f2"",
+  ""extracted_data"": {
+    ""ShippingDocument"": {
+      ""Title"": ""Dangerous - Shipping Document - Straight Bill of Lading"",
+      ""ShippersBOLNo"": ""044035LM"",
+      ""Revision"": ""0"",
+      ""EmergencyPlanPhone"": ""800-265-0212"",
+      ""24HourNumberCanada"": ""CN01917-800-4249300"",
+      ""EmergencyContactUS"": {
+        ""Contract"": ""224506"",
+        ""Phone"": ""800-424-9300""
+      },
+      ""CarInfo"": {
+        ""CarNo"": ""MULTI-CARS"",
+        ""BillType"": ""REVENUE"",
+        ""Destination"": ""SCOTFORD, AB"",
+        ""Origin"": ""LIMA, OH"",
+        ""Routing"": ""CE-CHGO-KCS"",
+        ""SwitchingInfo"": ""ORG-NS-LIMA""
+      },
+      ""CareOf/ShipTo"": {
+        ""Name"": ""SHELL CHEMICALS CANADA"",
+        ""Address"": ""55220 RANGE ROAD 214 SCOTFORD, AB T8L 4A4""
+      },
+      ""Consignee"": {
+        ""Name"": ""THE PLAZA GROUP"",
+        ""Address"": ""55220 RANGE ROAD 214 FORT SASKATCHEWAN, AB T8L 4A4""
+      },
+      ""Shipper"": {
+        ""Name"": ""LIMA REFINING COMPANY"",
+        ""Address"": ""1150 SOUTH METCALF STREET LIMA, OH 45804""
+      },
+      ""FreightCharges"": {
+        ""Name"": ""SHELL TRADING CANADA"",
+        ""Address"": ""PO BOX 4280 STATION C CALGARY, AB T2T 5Z5""
+      },
+      ""Lessee"": ""Sect 7: NO"",
+      ""FreightDetails"": {
+        ""Freight"": ""COLLECT"",
+        ""FOB"": ""N/A"",
+        ""Rule-11"": ""N"",
+        ""Parties"": {
+          ""11"": ""SHELL TRADING CANADA-CALGARY, AB"",
+          ""1M"": ""SHELL CHEMICALS CANADA LTD.-SCOTFORD, AB"",
+          ""XX"": ""LIVINGSTON CUSTOMS BROKERAGE-CALGARY, AB""
+        }
+      },
+      ""RRContract"": {
+        ""ReferenceNo"": ""2500415"",
+        ""AESExportInfoCodeExemptionNo"": ""NOEEI 30.36"",
+        ""ConsigneesOrderNumber"": [
+          ""4141"",
+          ""4142""
+        ],
+        ""LoadDate"": ""4-23-25"",
+        ""PurchaseOrderNumber"": ""H5/25"",
+        ""ScheduleAgreement"": ""H5/25""
+      },
+      ""ProductDetails"": {
+        ""Product"": ""BENZENE"",
+        ""STCCCode"": ""4980110""
+      },
+      ""HazmatInformation"": {
+        ""UNNumber"": ""1114"",
+        ""ProperShippingName"": ""BENZENE"",
+        ""HazardClass"": ""3"",
+        ""PackingGroup"": ""PGII"",
+        ""RQ"": ""BENZENE""
+      },
+      ""Placards"": ""N/A"",
+      ""SpecialCommodityInd"": ""N/A"",
+      ""PackagesDetails"": {
+        ""NumberOfPackages"": ""2 RAILCARS"",
+        ""SealNumbers"": """"
+      },
+      ""CarCapacity"": {
+        ""Gallons"": {
+          ""Table"": """",
+          ""INS"": """",
+          ""GL+VC"": """"
+        },
+        ""Outage"": {
+          ""Gallons"": """",
+          ""Loaded"": {
+            ""OriginWeights"": {
+              ""Gallons"": {
+                ""GAL@60"": {
+                  ""Value"": ""38,156""
+                },
+                ""GAL"": {
+                  ""Value"": ""45,826""
+                }
+              },
+              ""VCF"": """",
+              ""Density"": """",
+              ""Temp"": """",
+              ""LBS/Gal"": """",
+              ""Litres"": ""173,467"",
+              ""Kilograms"": ""153,091""
+            }
+          }
+        }
+      },
+      ""CarDetails"": [
+        {
+          ""CarNo"": ""GATX 223990"",
+          ""Gallons"": {
+            ""Table"": ""10.000"",
+            ""INS"": ""10910"",
+            ""GL+VC"": ""1,411""
+          },
+          ""Loaded"": {
+            ""Gallons"": ""20,064"",
+            ""Density"": ""0.88450"",
+            ""Temp"": ""86.3"",
+            ""VCF"": ""0.98959"",
+            ""GAL@60"": ""19,855"",
+            ""LBS/Gal"": ""8.8449"",
+            ""Kilograms"": ""79,659"",
+            ""Litres"": ""90,261""
+          },
+          ""SealNumbers"": [
+            ""166260"",
+            ""170438""
+          ]
+        },
+        {
+          ""CarNo"": ""GATX 224022"",
+          ""Gallons"": {
+            ""Table"": ""19.000"",
+            ""INS"": ""T17043-75"",
+            ""GL+VC"": ""2,988""
+          },
+          ""Loaded"": {
+            ""Gallons"": ""18,519"",
+            ""Density"": ""0.88450"",
+            ""Temp"": ""89.4"",
+            ""VCF"": ""0.98836"",
+            ""GAL@60"": ""18,303"",
+            ""LBS/Gal"": ""8.8449"",
+            ""Kilograms"": ""73,432"",
+            ""Litres"": ""83,205""
+          },
+          ""SealNumbers"": [
+            ""170471"",
+            ""166253""
+          ]
+        }
+      ],
+      ""Comments"": ""EMAIL BOL AND COA TO customers@theplazagrp.com"",
+      ""Certification"": {
+        ""Statement"": ""The above-named materials are properly classified, described, packaged, marked and labeled, and are in proper condition for transportation according to the applicable regulations of the Department of Transportation."",
+        ""SignedBy"": ""ZACH DALEY"",
+        ""Signature"": ""N/A""
+      }
+    }
+  }
+}",BENZENE,"LIMA, OH","SCOTFORD, AB",LIMA REFINING COMPANY,BENZENE,,No Match,0.7146596908569336,hungarian,,,False
+124320-CIP00109PS-19-2_253746-2_20250614.pdf,"{
+  ""status"": ""success"",
+  ""message"": ""File uploaded and processed successfully"",
+  ""blob_url"": ""https://weaveagentsblob.blob.core.windows.net/agent-video/124320-CIP00109PS-19-2_253746-2_20250614.pdf?se=2025-07-11T13%3A19%3A00Z&sp=r&sv=2025-05-05&sr=b&sig=RVfi0yv7SuLXCsxl4xN9OSh1KUTFaX4vRr/daCdHU6I%3D"",
+  ""mongo_id"": ""68710bd3a6effb6ff3cc37f3"",
+  ""extracted_data"": {
+    ""ShippingDocument"": {
+      ""Title"": ""Bill of Lading for Individual Shipment"",
+      ""ShippersBOLNo"": ""CIP00109PS-19-2"",
+      ""Revision"": ""N/A"",
+      ""EmergencyPlanPhone"": ""CHEMTREC 800-424-9300"",
+      ""24HourNumberCanada"": ""N/A"",
+      ""EmergencyContactUS"": {
+        ""Contract"": ""N/A"",
+        ""Phone"": ""800-424-9300""
+      },
+      ""CarInfo"": {
+        ""CarNo"": ""GATX003214"",
+        ""BillType"": ""REVENUE"",
+        ""Destination"": ""BROWNSVILLE, TX"",
+        ""Origin"": ""DEER PARK, TX"",
+        ""Routing"": ""PTRA HUSTN UP"",
+        ""SwitchingInfo"": ""N/A""
+      },
+      ""CareOf/ShipTo"": {
+        ""Name"": ""INTERLUBE"",
+        ""Address"": ""750 W ANCHOR RD, BROWNSVILLE, TX 77598""
+      },
+      ""Consignee"": {
+        ""Name"": ""INTERLUBE"",
+        ""Address"": ""750 W ANCHOR RD, BROWNSVILLE, TX 77598""
+      },
+      ""Shipper"": {
+        ""Name"": ""INTERCONTINENTAL TERMINALS"",
+        ""Address"": ""2627 TIDAL ROAD, DEER PARK, TX 77536""
+      },
+      ""FreightCharges"": {
+        ""Name"": ""SHELL LUBRICANTS"",
+        ""Address"": ""910 LOUISIANA, HOUSTON, TX 77008""
+      },
+      ""Lessee"": ""Sect 7: NO"",
+      ""FreightDetails"": {
+        ""Freight"": ""COLLECT"",
+        ""FOB"": ""N/A"",
+        ""Rule-11"": ""N/A"",
+        ""Parties"": {
+          ""11"": ""N/A"",
+          ""1M"": ""N/A"",
+          ""XX"": ""N/A""
+        }
+      },
+      ""RRContract"": {
+        ""ReferenceNo"": ""462184"",
+        ""AESExportInfoCodeExemptionNo"": ""N/A"",
+        ""ConsigneesOrderNumber"": [
+          ""253746-2"",
+          ""913955122""
+        ],
+        ""LoadDate"": ""2025-06-14"",
+        ""PurchaseOrderNumber"": ""N/A"",
+        ""ScheduleAgreement"": ""N/A""
+      },
+      ""ProductDetails"": {
+        ""Product"": ""PETRO OIL NEC"",
+        ""STCCCode"": ""2911791""
+      },
+      ""HazmatInformation"": {
+        ""UNNumber"": ""N/A"",
+        ""ProperShippingName"": ""N/A"",
+        ""HazardClass"": ""XHVI - 4"",
+        ""PackingGroup"": ""N/A"",
+        ""RQ"": ""N/A""
+      },
+      ""Placards"": ""N/A"",
+      ""SpecialCommodityInd"": ""N/A"",
+      ""PackagesDetails"": {
+        ""NumberOfPackages"": ""1 RAILCAR"",
+        ""SealNumbers"": ""816599, 816587, 816594""
+      },
+      ""CarCapacity"": {
+        ""Gallons"": {
+          ""Table"": ""N/A"",
+          ""INS"": ""N/A"",
+          ""GL+VC"": ""N/A""
+        },
+        ""Outage"": {
+          ""Gallons"": ""N/A"",
+          ""Loaded"": {
+            ""OriginWeights"": {
+              ""Gallons"": {
+                ""GAL@60"": {
+                  ""Value"": ""22656""
+                },
+                ""GAL"": {
+                  ""Value"": ""N/A""
+                }
+              },
+              ""VCF"": ""N/A"",
+              ""Density"": ""N/A"",
+              ""Temp"": ""N/A"",
+              ""LBS/Gal"": ""N/A"",
+              ""Litres"": ""N/A"",
+              ""Kilograms"": ""N/A""
+            }
+          }
+        }
+      },
+      ""Comments"": ""N/A"",
+      ""Certification"": {
+        ""Statement"": ""N/A"",
+        ""SignedBy"": ""N/A"",
+        ""Signature"": ""N/A""
+      }
+    }
+  }
+}",PETRO OIL NEC,"DEER PARK, TX","BROWNSVILLE, TX",INTERCONTINENTAL TERMINALS,PETRO OIL NEC,,No Match,0.6316595077514648,hungarian,,,False
+124320-CIP00109PS-19-2_253746-2_20250614.pdf,"{
+  ""status"": ""success"",
+  ""message"": ""File uploaded and processed successfully"",
+  ""blob_url"": ""https://weaveagentsblob.blob.core.windows.net/agent-video/124320-CIP00109PS-19-2_253746-2_20250614.pdf?se=2025-07-11T13%3A19%3A00Z&sp=r&sv=2025-05-05&sr=b&sig=RVfi0yv7SuLXCsxl4xN9OSh1KUTFaX4vRr/daCdHU6I%3D"",
+  ""mongo_id"": ""68710bd3a6effb6ff3cc37f3"",
+  ""extracted_data"": {
+    ""ShippingDocument"": {
+      ""Title"": ""Bill of Lading for Individual Shipment"",
+      ""ShippersBOLNo"": ""CIP00109PS-19-2"",
+      ""Revision"": ""N/A"",
+      ""EmergencyPlanPhone"": ""CHEMTREC 800-424-9300"",
+      ""24HourNumberCanada"": ""N/A"",
+      ""EmergencyContactUS"": {
+        ""Contract"": ""N/A"",
+        ""Phone"": ""800-424-9300""
+      },
+      ""CarInfo"": {
+        ""CarNo"": ""GATX003214"",
+        ""BillType"": ""REVENUE"",
+        ""Destination"": ""BROWNSVILLE, TX"",
+        ""Origin"": ""DEER PARK, TX"",
+        ""Routing"": ""PTRA HUSTN UP"",
+        ""SwitchingInfo"": ""N/A""
+      },
+      ""CareOf/ShipTo"": {
+        ""Name"": ""INTERLUBE"",
+        ""Address"": ""750 W ANCHOR RD, BROWNSVILLE, TX 77598""
+      },
+      ""Consignee"": {
+        ""Name"": ""INTERLUBE"",
+        ""Address"": ""750 W ANCHOR RD, BROWNSVILLE, TX 77598""
+      },
+      ""Shipper"": {
+        ""Name"": ""INTERCONTINENTAL TERMINALS"",
+        ""Address"": ""2627 TIDAL ROAD, DEER PARK, TX 77536""
+      },
+      ""FreightCharges"": {
+        ""Name"": ""SHELL LUBRICANTS"",
+        ""Address"": ""910 LOUISIANA, HOUSTON, TX 77008""
+      },
+      ""Lessee"": ""Sect 7: NO"",
+      ""FreightDetails"": {
+        ""Freight"": ""COLLECT"",
+        ""FOB"": ""N/A"",
+        ""Rule-11"": ""N/A"",
+        ""Parties"": {
+          ""11"": ""N/A"",
+          ""1M"": ""N/A"",
+          ""XX"": ""N/A""
+        }
+      },
+      ""RRContract"": {
+        ""ReferenceNo"": ""462184"",
+        ""AESExportInfoCodeExemptionNo"": ""N/A"",
+        ""ConsigneesOrderNumber"": [
+          ""253746-2"",
+          ""913955122""
+        ],
+        ""LoadDate"": ""2025-06-14"",
+        ""PurchaseOrderNumber"": ""N/A"",
+        ""ScheduleAgreement"": ""N/A""
+      },
+      ""ProductDetails"": {
+        ""Product"": ""PETRO OIL NEC"",
+        ""STCCCode"": ""2911791""
+      },
+      ""HazmatInformation"": {
+        ""UNNumber"": ""N/A"",
+        ""ProperShippingName"": ""N/A"",
+        ""HazardClass"": ""XHVI - 4"",
+        ""PackingGroup"": ""N/A"",
+        ""RQ"": ""N/A""
+      },
+      ""Placards"": ""N/A"",
+      ""SpecialCommodityInd"": ""N/A"",
+      ""PackagesDetails"": {
+        ""NumberOfPackages"": ""1 RAILCAR"",
+        ""SealNumbers"": ""816599, 816587, 816594""
+      },
+      ""CarCapacity"": {
+        ""Gallons"": {
+          ""Table"": ""N/A"",
+          ""INS"": ""N/A"",
+          ""GL+VC"": ""N/A""
+        },
+        ""Outage"": {
+          ""Gallons"": ""N/A"",
+          ""Loaded"": {
+            ""OriginWeights"": {
+              ""Gallons"": {
+                ""GAL@60"": {
+                  ""Value"": ""22656""
+                },
+                ""GAL"": {
+                  ""Value"": ""N/A""
+                }
+              },
+              ""VCF"": ""N/A"",
+              ""Density"": ""N/A"",
+              ""Temp"": ""N/A"",
+              ""LBS/Gal"": ""N/A"",
+              ""Litres"": ""N/A"",
+              ""Kilograms"": ""N/A""
+            }
+          }
+        }
+      },
+      ""Comments"": ""N/A"",
+      ""Certification"": {
+        ""Statement"": ""N/A"",
+        ""SignedBy"": ""N/A"",
+        ""Signature"": ""N/A""
+      }
+    }
+  }
+}",PETRO OIL NEC,"DEER PARK, TX","BROWNSVILLE, TX",INTERCONTINENTAL TERMINALS,PETRO OIL NEC,,No Match,0.6077498197555542,hungarian,,,False
+124347-LUB00084PS-8-6+CST_25-102791_20250616.pdf,"{
+  ""status"": ""success"",
+  ""message"": ""File uploaded and processed successfully"",
+  ""blob_url"": ""https://weaveagentsblob.blob.core.windows.net/agent-video/124347-LUB00084PS-8-6+CST_25-102791_20250616.pdf?se=2025-07-11T13%3A21%3A58Z&sp=r&sv=2025-05-05&sr=b&sig=heg/DJ6FLgZUx9gsoH3R9C819U207RhRyPQvzCwHjyc%3D"",
+  ""mongo_id"": ""68710c8aa6effb6ff3cc37f4"",
+  ""extracted_data"": {
+    ""ShippingDocument"": {
+      ""Title"": ""N/A"",
+      ""ShippersBOLNo"": ""25-102791"",
+      ""Revision"": ""N/A"",
+      ""EmergencyPlanPhone"": ""N/A"",
+      ""24HourNumberCanada"": ""N/A"",
+      ""EmergencyContactUS"": {
+        ""Contract"": ""N/A"",
+        ""Phone"": ""N/A""
+      },
+      ""CarInfo"": {
+        ""CarNo"": ""N/A"",
+        ""BillType"": ""N/A"",
+        ""Destination"": ""LUBRICANTES DE AMERICA SA DE CV, PARQUE INDUSTRIAL GONHER, SANTA CATARINA, NUEVO L, NL 66350"",
+        ""Origin"": ""HOUSTON, TX"",
+        ""Routing"": ""N/A"",
+        ""SwitchingInfo"": ""N/A""
+      },
+      ""CareOf/ShipTo"": ""N/A"",
+      ""Consignee"": {
+        ""Name"": ""LUBRICANTES DE AMERICA SA DE CV"",
+        ""Address"": ""CARRETERA A GARCIA KM 1.2 INTE, PARQUE INDUSTRIAL GONHER, SANTA CATARINA, NUEVO L, NL 66350""
+      },
+      ""Shipper"": {
+        ""Name"": ""SHELL TRADING US COMPANY"",
+        ""Address"": ""1000 MAIN ST., LEVEL TWELVE, HOUSTON, TX 77002""
+      },
+      ""FreightCharges"": ""N/A"",
+      ""Lessee"": ""N/A"",
+      ""FreightDetails"": {
+        ""Freight"": ""N/A"",
+        ""FOB"": ""N/A"",
+        ""Rule-11"": ""N/A"",
+        ""Parties"": {
+          ""11"": ""N/A"",
+          ""1M"": ""N/A"",
+          ""XX"": ""N/A""
+        }
+      },
+      ""RRContract"": {
+        ""ReferenceNo"": ""CHEM1266(250523)"",
+        ""AESExportInfoCodeExemptionNo"": ""N/A"",
+        ""ConsigneesOrderNumber"": [
+          ""LUB00084PS-8-6""
+        ],
+        ""LoadDate"": ""Jun 16, 2025"",
+        ""PurchaseOrderNumber"": ""N/A"",
+        ""ScheduleAgreement"": ""N/A""
+      },
+      ""ProductDetails"": {
+        ""Product"": ""Base Oil (1 Cargo Tank)"",
+        ""STCCCode"": ""N/A""
+      },
+      ""HazmatInformation"": {
+        ""UNNumber"": ""N/A"",
+        ""ProperShippingName"": ""N/A"",
+        ""HazardClass"": ""N/A"",
+        ""PackingGroup"": ""N/A"",
+        ""RQ"": ""N/A""
+      },
+      ""Placards"": ""N/A"",
+      ""SpecialCommodityInd"": ""N/A"",
+      ""PackagesDetails"": {
+        ""NumberOfPackages"": ""N/A"",
+        ""SealNumbers"": ""227985, 217066""
+      },
+      ""CarCapacity"": {
+        ""Gallons"": {
+          ""Table"": ""N/A"",
+          ""INS"": ""N/A"",
+          ""GL+VC"": ""N/A""
+        },
+        ""Outage"": {
+          ""Gallons"": ""N/A"",
+          ""Loaded"": {
+            ""OriginWeights"": {
+              ""Gallons"": {
+                ""GAL@60"": {
+                  ""Value"": ""N/A""
+                },
+                ""GAL"": {
+                  ""Value"": ""8180""
+                }
+              },
+              ""VCF"": ""N/A"",
+              ""Density"": ""N/A"",
+              ""Temp"": ""N/A"",
+              ""LBS/Gal"": ""N/A"",
+              ""Litres"": ""30965"",
+              ""Kilograms"": ""26018""
+            }
+          }
+        }
+      },
+      ""Comments"": ""***Muestra Adjunta de Producto***"",
+      ""Certification"": {
+        ""Statement"": ""The above-named materials are properly classified, described, packaged, marked and labeled, and are in proper condition for transportation according to the applicable regulations of the Department of Transportation."",
+        ""SignedBy"": ""Jonathan Morales"",
+        ""Signature"": """"
+      }
+    }
+  }
+}",Base Oil (1 Cargo Tank),"HOUSTON, TX","LUBRICANTES DE AMERICA SA DE CV, PARQUE INDUSTRIAL GONHER, SANTA CATARINA, NUEVO L, NL 66350",SHELL TRADING US COMPANY,Base Oil (1 Cargo Tank),,No Match,0.5968871116638184,hungarian,,,False
+124349-BOL_2A9FC52765.pdf,"{
+  ""status"": ""success"",
+  ""message"": ""File uploaded and processed successfully"",
+  ""blob_url"": ""https://weaveagentsblob.blob.core.windows.net/agent-video/124349-BOL_2A9FC52765.pdf?se=2025-07-11T13%3A22%3A55Z&sp=r&sv=2025-05-05&sr=b&sig=PjVXJRt6NPkKj//u5Msrlj2Plol/fBd7Or9lb4YATD4%3D"",
+  ""mongo_id"": ""68710cbda6effb6ff3cc37f5"",
+  ""extracted_data"": {
+    ""ShippingDocument"": {
+      ""Title"": ""Pieridae Energy Bill of Lading"",
+      ""ShippersBOLNo"": ""2A9FC52765"",
+      ""Revision"": ""N/A"",
+      ""EmergencyPlanPhone"": ""800-265-0212"",
+      ""24HourNumberCanada"": ""2-0010-507"",
+      ""EmergencyContactUS"": {
+        ""Contract"": ""CCN858422"",
+        ""Phone"": ""800-255-3924""
+      },
+      ""CarInfo"": {
+        ""CarNo"": ""N/A"",
+        ""BillType"": ""N/A"",
+        ""Destination"": ""FERNDALE, WA, US"",
+        ""Origin"": ""COPITHORNE, AB, CA"",
+        ""Routing"": ""CPRS/NWSTR/BNSF"",
+        ""SwitchingInfo"": ""N/A""
+      },
+      ""CareOf/ShipTo"": {
+        ""Name"": ""Pieridae Alberta Production Ltd."",
+        ""Address"": ""SW 1 12 SEC 24 TWP 25 RG 5 W5 Copithorne, AB, CA, T2P2V7""
+      },
+      ""Consignee"": {
+        ""Name"": ""ALTAGAS EXTRACTION AND TRANSMISSION LP"",
+        ""Address"": ""355 4 AVE SW UNIT 1700 Calgary, AB, CA, T2P0J1""
+      },
+      ""Shipper"": {
+        ""Name"": ""Pieridae Alberta Production Ltd."",
+        ""Address"": ""1100, 411 1 Street SE Calgary, AB, CA, T2G 4Y5""
+      },
+      ""FreightCharges"": {
+        ""Name"": ""ALTAGAS EXTRACTION AND TRANSMISSION LP"",
+        ""Address"": ""355 4 AVE SW UNIT 1700 Calgary, AB, CA, T2P0J1""
+      },
+      ""Lessee"": ""N/A"",
+      ""FreightDetails"": {
+        ""Freight"": ""Rule 11"",
+        ""FOB"": ""N/A"",
+        ""Rule-11"": ""Y"",
+        ""Parties"": {
+          ""11"": ""Petrogras Inc - Washington DC"",
+          ""1M"": ""Shell Chemicals Canada - Calgary"",
+          ""XX"": ""AN DERINGER INC - Blaine, WA""
+        }
+      },
+      ""RRContract"": {
+        ""ReferenceNo"": ""N/A"",
+        ""AESExportInfoCodeExemptionNo"": ""UN1075//2.1"",
+        ""ConsigneesOrderNumber"": [
+          ""6934918"",
+          ""6934919"",
+          ""6934920""
+        ],
+        ""LoadDate"": ""June 16, 2025"",
+        ""PurchaseOrderNumber"": ""N/A"",
+        ""ScheduleAgreement"": ""N/A""
+      },
+      ""ProductDetails"": {
+        ""Product"": ""Butane"",
+        ""STCCCode"": ""4905423""
+      },
+      ""HazmatInformation"": {
+        ""UNNumber"": ""UN1075"",
+        ""ProperShippingName"": ""Butane"",
+        ""HazardClass"": ""2.1"",
+        ""PackingGroup"": ""N/A"",
+        ""RQ"": ""N/A""
+      },
+      ""Placards"": ""N/A"",
+      ""SpecialCommodityInd"": ""N/A"",
+      ""PackagesDetails"": {
+        ""NumberOfPackages"": ""3 Railcars"",
+        ""SealNumbers"": ""6934920, 6934919, 6934918""
+      },
+      ""CarCapacity"": {
+        ""Gallons"": {
+          ""Table"": ""30,629 USG (Railcar 1), 30,849 USG (Railcar 2), 31,024 USG (Railcar 3)"",
+          ""INS"": ""N/A"",
+          ""GL+VC"": ""N/A""
+        },
+        ""Outage"": {
+          ""Gallons"": ""11,133 L (Railcar 1), 11,205 L (Railcar 2), 11,591 L (Railcar 3)"",
+          ""Loaded"": {
+            ""OriginWeights"": {
+              ""Gallons"": {
+                ""GAL@60"": {
+                  ""Value"": ""115,943 L (Railcar 1), 116,742 L (Railcar 2), 116,265 L (Railcar 3)""
+                },
+                ""GAL"": {
+                  ""Value"": ""30,629 USG (Railcar 1), 30,849 USG (Railcar 2), 31,024 USG (Railcar 3)""
+                }
+              },
+              ""VCF"": ""1.01"",
+              ""Density"": ""0.57 kg/L"",
+              ""Temp"": ""54 °F (Railcar 1), 54 °F (Railcar 2), 50 °F (Railcar 3)"",
+              ""LBS/Gal"": ""N/A"",
+              ""Litres"": ""173,467 L"",
+              ""Kilograms"": ""199,891 KG""
+            }
+          }
+        }
+      },
+      ""Comments"": ""N/A"",
+      ""Certification"": {
+        ""Statement"": ""N/A"",
+        ""SignedBy"": ""N/A"",
+        ""Signature"": ""N/A""
+      }
+    }
+  }
+}",Butane,"COPITHORNE, AB, CA","FERNDALE, WA, US",Pieridae Alberta Production Ltd.,Butane,butane,Semantic,0.0,hungarian,1560.0,400007248.0,False
+124381-SHD-0525-159.pdf,"{
+  ""status"": ""success"",
+  ""message"": ""File uploaded and processed successfully"",
+  ""blob_url"": ""https://weaveagentsblob.blob.core.windows.net/agent-video/124381-SHD-0525-159.pdf?se=2025-07-11T13%3A23%3A58Z&sp=r&sv=2025-05-05&sr=b&sig=Q/rJLt/yeCpW8ljP89cq82Z2Ij7dDBrNlNRGDxXWFLo%3D"",
+  ""mongo_id"": ""68710cf9a6effb6ff3cc37f6"",
+  ""extracted_data"": {
+    ""ShippingDocument"": {
+      ""Title"": ""UP - Bill of Lading for Individual Shipment (ITC Pattern ID: EAGLE PASS)"",
+      ""ShippersBOLNo"": ""SHD-0525-159"",
+      ""Revision"": ""N/A"",
+      ""EmergencyPlanPhone"": ""N/A"",
+      ""24HourNumberCanada"": ""N/A"",
+      ""EmergencyContactUS"": {
+        ""Contract"": ""N/A"",
+        ""Phone"": ""N/A""
+      },
+      ""CarInfo"": {
+        ""CarNo"": ""CBTX744239"",
+        ""BillType"": ""RR"",
+        ""Destination"": ""JAYHAWK, NV"",
+        ""Origin"": ""PASADENA, TX"",
+        ""Routing"": ""PTRA HUSTN UP"",
+        ""SwitchingInfo"": ""N/A""
+      },
+      ""CareOf/ShipTo"": {
+        ""Name"": ""N/A"",
+        ""Address"": ""N/A""
+      },
+      ""Consignee"": {
+        ""Name"": ""SHELL TRADING US COMPANY"",
+        ""Address"": ""1000 MAIN STREET LEVEL 12 HOUSTON, TX 77002""
+      },
+      ""Shipper"": {
+        ""Name"": ""SHELL TRADING CANADA"",
+        ""Address"": ""400 4TH AVENUE SW CALGARY, AB T2P 0J1""
+      },
+      ""FreightCharges"": {
+        ""Name"": ""N/A"",
+        ""Address"": ""N/A""
+      },
+      ""Lessee"": ""Sect 7: No"",
+      ""FreightDetails"": {
+        ""Freight"": ""N/A"",
+        ""FOB"": ""N/A"",
+        ""Rule-11"": ""Yes"",
+        ""Parties"": {
+          ""11"": ""SHELL TRADING CANADA - CALGARY, AB"",
+          ""1M"": ""N/A"",
+          ""XX"": ""N/A""
+        }
+      },
+      ""RRContract"": {
+        ""ReferenceNo"": ""N/A"",
+        ""AESExportInfoCodeExemptionNo"": ""N/A"",
+        ""ConsigneesOrderNumber"": [
+          ""N/A""
+        ],
+        ""LoadDate"": ""2025-05-21"",
+        ""PurchaseOrderNumber"": ""N/A"",
+        ""ScheduleAgreement"": ""N/A""
+      },
+      ""ProductDetails"": {
+        ""Product"": ""ULSD"",
+        ""STCCCode"": ""2911331""
+      },
+      ""HazmatInformation"": {
+        ""UNNumber"": ""N/A"",
+        ""ProperShippingName"": ""N/A"",
+        ""HazardClass"": ""N/A"",
+        ""PackingGroup"": ""N/A"",
+        ""RQ"": ""N/A""
+      },
+      ""Placards"": ""N/A"",
+      ""SpecialCommodityInd"": ""N/A"",
+      ""PackagesDetails"": {
+        ""NumberOfPackages"": ""1 Railcar"",
+        ""SealNumbers"": ""845402, 845403, 840413, 840414""
+      },
+      ""CarCapacity"": {
+        ""Gallons"": {
+          ""Table"": ""N/A"",
+          ""INS"": ""N/A"",
+          ""GL+VC"": ""N/A""
+        },
+        ""Outage"": {
+          ""Gallons"": ""N/A"",
+          ""Loaded"": {
+            ""OriginWeights"": {
+              ""Gallons"": {
+                ""GAL@60"": {
+                  ""Value"": ""N/A""
+                },
+                ""GAL"": {
+                  ""Value"": ""N/A""
+                }
+              },
+              ""VCF"": ""N/A"",
+              ""Density"": ""N/A"",
+              ""Temp"": ""N/A"",
+              ""LBS/Gal"": ""N/A"",
+              ""Litres"": ""N/A"",
+              ""Kilograms"": ""193811""
+            }
+          }
+        }
+      },
+      ""Comments"": ""N/A"",
+      ""Certification"": {
+        ""Statement"": ""N/A"",
+        ""SignedBy"": ""N/A"",
+        ""Signature"": ""N/A""
+      }
+    }
+  }
+}",ULSD,"PASADENA, TX","JAYHAWK, NV",SHELL TRADING CANADA,ULSD,,No Match,0.4488915205001831,hungarian,,,False
+124381-SHD-0525-159.pdf,"{
+  ""status"": ""success"",
+  ""message"": ""File uploaded and processed successfully"",
+  ""blob_url"": ""https://weaveagentsblob.blob.core.windows.net/agent-video/124381-SHD-0525-159.pdf?se=2025-07-11T13%3A23%3A58Z&sp=r&sv=2025-05-05&sr=b&sig=Q/rJLt/yeCpW8ljP89cq82Z2Ij7dDBrNlNRGDxXWFLo%3D"",
+  ""mongo_id"": ""68710cf9a6effb6ff3cc37f6"",
+  ""extracted_data"": {
+    ""ShippingDocument"": {
+      ""Title"": ""UP - Bill of Lading for Individual Shipment (ITC Pattern ID: EAGLE PASS)"",
+      ""ShippersBOLNo"": ""SHD-0525-159"",
+      ""Revision"": ""N/A"",
+      ""EmergencyPlanPhone"": ""N/A"",
+      ""24HourNumberCanada"": ""N/A"",
+      ""EmergencyContactUS"": {
+        ""Contract"": ""N/A"",
+        ""Phone"": ""N/A""
+      },
+      ""CarInfo"": {
+        ""CarNo"": ""CBTX744239"",
+        ""BillType"": ""RR"",
+        ""Destination"": ""JAYHAWK, NV"",
+        ""Origin"": ""PASADENA, TX"",
+        ""Routing"": ""PTRA HUSTN UP"",
+        ""SwitchingInfo"": ""N/A""
+      },
+      ""CareOf/ShipTo"": {
+        ""Name"": ""N/A"",
+        ""Address"": ""N/A""
+      },
+      ""Consignee"": {
+        ""Name"": ""SHELL TRADING US COMPANY"",
+        ""Address"": ""1000 MAIN STREET LEVEL 12 HOUSTON, TX 77002""
+      },
+      ""Shipper"": {
+        ""Name"": ""SHELL TRADING CANADA"",
+        ""Address"": ""400 4TH AVENUE SW CALGARY, AB T2P 0J1""
+      },
+      ""FreightCharges"": {
+        ""Name"": ""N/A"",
+        ""Address"": ""N/A""
+      },
+      ""Lessee"": ""Sect 7: No"",
+      ""FreightDetails"": {
+        ""Freight"": ""N/A"",
+        ""FOB"": ""N/A"",
+        ""Rule-11"": ""Yes"",
+        ""Parties"": {
+          ""11"": ""SHELL TRADING CANADA - CALGARY, AB"",
+          ""1M"": ""N/A"",
+          ""XX"": ""N/A""
+        }
+      },
+      ""RRContract"": {
+        ""ReferenceNo"": ""N/A"",
+        ""AESExportInfoCodeExemptionNo"": ""N/A"",
+        ""ConsigneesOrderNumber"": [
+          ""N/A""
+        ],
+        ""LoadDate"": ""2025-05-21"",
+        ""PurchaseOrderNumber"": ""N/A"",
+        ""ScheduleAgreement"": ""N/A""
+      },
+      ""ProductDetails"": {
+        ""Product"": ""ULSD"",
+        ""STCCCode"": ""2911331""
+      },
+      ""HazmatInformation"": {
+        ""UNNumber"": ""N/A"",
+        ""ProperShippingName"": ""N/A"",
+        ""HazardClass"": ""N/A"",
+        ""PackingGroup"": ""N/A"",
+        ""RQ"": ""N/A""
+      },
+      ""Placards"": ""N/A"",
+      ""SpecialCommodityInd"": ""N/A"",
+      ""PackagesDetails"": {
+        ""NumberOfPackages"": ""1 Railcar"",
+        ""SealNumbers"": ""845402, 845403, 840413, 840414""
+      },
+      ""CarCapacity"": {
+        ""Gallons"": {
+          ""Table"": ""N/A"",
+          ""INS"": ""N/A"",
+          ""GL+VC"": ""N/A""
+        },
+        ""Outage"": {
+          ""Gallons"": ""N/A"",
+          ""Loaded"": {
+            ""OriginWeights"": {
+              ""Gallons"": {
+                ""GAL@60"": {
+                  ""Value"": ""N/A""
+                },
+                ""GAL"": {
+                  ""Value"": ""N/A""
+                }
+              },
+              ""VCF"": ""N/A"",
+              ""Density"": ""N/A"",
+              ""Temp"": ""N/A"",
+              ""LBS/Gal"": ""N/A"",
+              ""Litres"": ""N/A"",
+              ""Kilograms"": ""193811""
+            }
+          }
+        }
+      },
+      ""Comments"": ""N/A"",
+      ""Certification"": {
+        ""Statement"": ""N/A"",
+        ""SignedBy"": ""N/A"",
+        ""Signature"": ""N/A""
+      }
+    }
+  }
+}",ULSD,"PASADENA, TX","JAYHAWK, NV",SHELL TRADING CANADA,ULSD,,No Match,0.6191496253013611,hungarian,,,False
+124381-SHD-0525-159.pdf,"{
+  ""status"": ""success"",
+  ""message"": ""File uploaded and processed successfully"",
+  ""blob_url"": ""https://weaveagentsblob.blob.core.windows.net/agent-video/124381-SHD-0525-159.pdf?se=2025-07-11T13%3A23%3A58Z&sp=r&sv=2025-05-05&sr=b&sig=Q/rJLt/yeCpW8ljP89cq82Z2Ij7dDBrNlNRGDxXWFLo%3D"",
+  ""mongo_id"": ""68710cf9a6effb6ff3cc37f6"",
+  ""extracted_data"": {
+    ""ShippingDocument"": {
+      ""Title"": ""UP - Bill of Lading for Individual Shipment (ITC Pattern ID: EAGLE PASS)"",
+      ""ShippersBOLNo"": ""SHD-0525-159"",
+      ""Revision"": ""N/A"",
+      ""EmergencyPlanPhone"": ""N/A"",
+      ""24HourNumberCanada"": ""N/A"",
+      ""EmergencyContactUS"": {
+        ""Contract"": ""N/A"",
+        ""Phone"": ""N/A""
+      },
+      ""CarInfo"": {
+        ""CarNo"": ""CBTX744239"",
+        ""BillType"": ""RR"",
+        ""Destination"": ""JAYHAWK, NV"",
+        ""Origin"": ""PASADENA, TX"",
+        ""Routing"": ""PTRA HUSTN UP"",
+        ""SwitchingInfo"": ""N/A""
+      },
+      ""CareOf/ShipTo"": {
+        ""Name"": ""N/A"",
+        ""Address"": ""N/A""
+      },
+      ""Consignee"": {
+        ""Name"": ""SHELL TRADING US COMPANY"",
+        ""Address"": ""1000 MAIN STREET LEVEL 12 HOUSTON, TX 77002""
+      },
+      ""Shipper"": {
+        ""Name"": ""SHELL TRADING CANADA"",
+        ""Address"": ""400 4TH AVENUE SW CALGARY, AB T2P 0J1""
+      },
+      ""FreightCharges"": {
+        ""Name"": ""N/A"",
+        ""Address"": ""N/A""
+      },
+      ""Lessee"": ""Sect 7: No"",
+      ""FreightDetails"": {
+        ""Freight"": ""N/A"",
+        ""FOB"": ""N/A"",
+        ""Rule-11"": ""Yes"",
+        ""Parties"": {
+          ""11"": ""SHELL TRADING CANADA - CALGARY, AB"",
+          ""1M"": ""N/A"",
+          ""XX"": ""N/A""
+        }
+      },
+      ""RRContract"": {
+        ""ReferenceNo"": ""N/A"",
+        ""AESExportInfoCodeExemptionNo"": ""N/A"",
+        ""ConsigneesOrderNumber"": [
+          ""N/A""
+        ],
+        ""LoadDate"": ""2025-05-21"",
+        ""PurchaseOrderNumber"": ""N/A"",
+        ""ScheduleAgreement"": ""N/A""
+      },
+      ""ProductDetails"": {
+        ""Product"": ""ULSD"",
+        ""STCCCode"": ""2911331""
+      },
+      ""HazmatInformation"": {
+        ""UNNumber"": ""N/A"",
+        ""ProperShippingName"": ""N/A"",
+        ""HazardClass"": ""N/A"",
+        ""PackingGroup"": ""N/A"",
+        ""RQ"": ""N/A""
+      },
+      ""Placards"": ""N/A"",
+      ""SpecialCommodityInd"": ""N/A"",
+      ""PackagesDetails"": {
+        ""NumberOfPackages"": ""1 Railcar"",
+        ""SealNumbers"": ""845402, 845403, 840413, 840414""
+      },
+      ""CarCapacity"": {
+        ""Gallons"": {
+          ""Table"": ""N/A"",
+          ""INS"": ""N/A"",
+          ""GL+VC"": ""N/A""
+        },
+        ""Outage"": {
+          ""Gallons"": ""N/A"",
+          ""Loaded"": {
+            ""OriginWeights"": {
+              ""Gallons"": {
+                ""GAL@60"": {
+                  ""Value"": ""N/A""
+                },
+                ""GAL"": {
+                  ""Value"": ""N/A""
+                }
+              },
+              ""VCF"": ""N/A"",
+              ""Density"": ""N/A"",
+              ""Temp"": ""N/A"",
+              ""LBS/Gal"": ""N/A"",
+              ""Litres"": ""N/A"",
+              ""Kilograms"": ""193811""
+            }
+          }
+        }
+      },
+      ""Comments"": ""N/A"",
+      ""Certification"": {
+        ""Statement"": ""N/A"",
+        ""SignedBy"": ""N/A"",
+        ""Signature"": ""N/A""
+      }
+    }
+  }
+}",ULSD,"PASADENA, TX","JAYHAWK, NV",SHELL TRADING CANADA,ULSD,,No Match,0.42044511437416077,hungarian,,,False
+124382-WLK00017PS-31.pdf,"{
+  ""status"": ""success"",
+  ""message"": ""File uploaded and processed successfully"",
+  ""blob_url"": ""https://weaveagentsblob.blob.core.windows.net/agent-video/124382-WLK00017PS-31.pdf?se=2025-07-11T13%3A25%3A07Z&sp=r&sv=2025-05-05&sr=b&sig=WTOB5qOfLJnZL3JwC0rklXr5b8s1zGMBmuYuTzRRZ9o%3D"",
+  ""mongo_id"": ""68710d40a6effb6ff3cc37f7"",
+  ""extracted_data"": {
+    ""ShippingDocument"": {
+      ""Title"": ""Straight Bill of Lading"",
+      ""ShippersBOLNo"": ""WLK000177PS-31"",
+      ""Revision"": ""N/A"",
+      ""EmergencyPlanPhone"": ""800-424-9300"",
+      ""24HourNumberCanada"": ""N/A"",
+      ""EmergencyContactUS"": {
+        ""Contract"": ""N/A"",
+        ""Phone"": ""800-424-9300""
+      },
+      ""CarInfo"": {
+        ""CarNo"": ""5027"",
+        ""BillType"": ""N/A"",
+        ""Destination"": ""GUNTOWN, MS"",
+        ""Origin"": ""BRAITHWAITE, LA"",
+        ""Routing"": ""N/A"",
+        ""SwitchingInfo"": ""N/A""
+      },
+      ""CareOf/ShipTo"": {
+        ""Name"": ""WEST FRASER GUNTOWN"",
+        ""Address"": ""1194 HIGHWAY 145 GUNTOWN, MS 38849""
+      },
+      ""Consignee"": {
+        ""Name"": ""N/A"",
+        ""Address"": ""N/A""
+      },
+      ""Shipper"": {
+        ""Name"": ""STOLTHAVEN NEW ORLEANS LLC / SHELL TRADING (US) COMPANY"",
+        ""Address"": ""2444 ENGLISH TURN ROAD BRAITHWAITE, LA 70040""
+      },
+      ""FreightCharges"": {
+        ""Name"": ""N/A"",
+        ""Address"": ""N/A""
+      },
+      ""Lessee"": ""N/A"",
+      ""FreightDetails"": {
+        ""Freight"": ""COLLECT"",
+        ""FOB"": ""N/A"",
+        ""Rule-11"": ""N/A"",
+        ""Parties"": {
+          ""11"": ""N/A"",
+          ""1M"": ""N/A"",
+          ""XX"": ""N/A""
+        }
+      },
+      ""RRContract"": {
+        ""ReferenceNo"": ""2506-83547"",
+        ""AESExportInfoCodeExemptionNo"": ""N/A"",
+        ""ConsigneesOrderNumber"": ""WEU111958"",
+        ""LoadDate"": ""06/16/2025"",
+        ""PurchaseOrderNumber"": ""N/A"",
+        ""ScheduleAgreement"": ""N/A""
+      },
+      ""ProductDetails"": {
+        ""Product"": ""Neodene 26+"",
+        ""STCCCode"": ""N/A""
+      },
+      ""HazmatInformation"": {
+        ""UNNumber"": ""N/A"",
+        ""ProperShippingName"": ""Neodene 26+"",
+        ""HazardClass"": ""N/A"",
+        ""PackingGroup"": ""N/A"",
+        ""RQ"": ""N/A""
+      },
+      ""Placards"": ""Yes"",
+      ""SpecialCommodityInd"": ""N/A"",
+      ""PackagesDetails"": {
+        ""NumberOfPackages"": ""N/A"",
+        ""SealNumbers"": ""795295, 795264, 795300, 795293, 795299""
+      },
+      ""CarCapacity"": {
+        ""Gallons"": {
+          ""Table"": ""N/A"",
+          ""INS"": ""N/A"",
+          ""GL+VC"": ""N/A""
+        },
+        ""Outage"": {
+          ""Gallons"": ""N/A"",
+          ""Loaded"": {
+            ""OriginWeights"": {
+              ""Gallons"": {
+                ""GAL@60"": {
+                  ""Value"": ""N/A""
+                },
+                ""GAL"": {
+                  ""Value"": ""N/A""
+                }
+              },
+              ""VCF"": ""N/A"",
+              ""Density"": ""N/A"",
+              ""Temp"": ""-170"",
+              ""LBS/Gal"": ""N/A"",
+              ""Litres"": ""N/A"",
+              ""Kilograms"": ""N/A""
+            }
+          }
+        }
+      },
+      ""Comments"": ""SDS and COA received by: J.G"",
+      ""Certification"": {
+        ""Statement"": ""The above-named materials are properly classified, described, packaged, marked and labeled, and are in proper condition for transportation according to the applicable regulations of the Department of Transportation."",
+        ""SignedBy"": ""Joaquin Garcia"",
+        ""Signature"": ""x""
+      }
+    }
+  }
+}",Neodene 26+,"BRAITHWAITE, LA","GUNTOWN, MS",STOLTHAVEN NEW ORLEANS LLC / SHELL TRADING (US) COMPANY,Neodene 26+,,No Match,0.6383565068244934,hungarian,,,False
+124383-SHD-0525-160.pdf,"{
+  ""status"": ""success"",
+  ""message"": ""File uploaded and processed successfully"",
+  ""blob_url"": ""https://weaveagentsblob.blob.core.windows.net/agent-video/124383-SHD-0525-160.pdf?se=2025-07-11T13%3A26%3A01Z&sp=r&sv=2025-05-05&sr=b&sig=f80GZT5uxhZYZYPCrhqRe%2BH0nO8MZZyuUGoRoucdpyg%3D"",
+  ""mongo_id"": ""68710d75a6effb6ff3cc37f8"",
+  ""extracted_data"": {
+    ""ShippingDocument"": {
+      ""Title"": ""Bill of Lading for Individual Shipment (ITC Pattern ID: EAGLE PASS)"",
+      ""ShippersBOLNo"": ""SHD-0525-160"",
+      ""Revision"": ""N/A"",
+      ""EmergencyPlanPhone"": ""N/A"",
+      ""24HourNumberCanada"": ""N/A"",
+      ""EmergencyContactUS"": {
+        ""Contract"": ""N/A"",
+        ""Phone"": ""N/A""
+      },
+      ""CarInfo"": {
+        ""CarNo"": ""CBTX744260"",
+        ""BillType"": ""REVENUE"",
+        ""Destination"": ""60625 JAYHAWK, NV"",
+        ""Origin"": ""52634 PASADENA, TX"",
+        ""Routing"": ""PTRA HUSTN UP"",
+        ""SwitchingInfo"": ""S""
+      },
+      ""CareOf/ShipTo"": {
+        ""Name"": ""N/A"",
+        ""Address"": ""N/A""
+      },
+      ""Consignee"": {
+        ""Name"": ""SHELL TRADING US COMPANY"",
+        ""Address"": ""1000 MAIN STREET, LEVEL 12, HOUSTON, TX 77002""
+      },
+      ""Shipper"": {
+        ""Name"": ""SHELL TRADING CANADA"",
+        ""Address"": ""400 4TH AVENUE SW, CALGARY, AB T2P 0J1""
+      },
+      ""FreightCharges"": {
+        ""Name"": ""N/A"",
+        ""Address"": ""N/A""
+      },
+      ""Lessee"": ""Sect 7: No"",
+      ""FreightDetails"": {
+        ""Freight"": ""N/A"",
+        ""FOB"": ""N/A"",
+        ""Rule-11"": ""N/A"",
+        ""Parties"": {
+          ""11"": ""SHELL TRADING CANADA"",
+          ""1M"": ""SHELL TRADING CANADA"",
+          ""XX"": ""NEVADA GOLD MINES LLC, INTERCONTINENTAL TERMINALS COMPANY""
+        }
+      },
+      ""RRContract"": {
+        ""ReferenceNo"": ""N/A"",
+        ""AESExportInfoCodeExemptionNo"": ""N/A"",
+        ""ConsigneesOrderNumber"": ""N/A"",
+        ""LoadDate"": ""2025-05-21 08:31:16.25"",
+        ""PurchaseOrderNumber"": ""N/A"",
+        ""ScheduleAgreement"": ""N/A""
+      },
+      ""ProductDetails"": {
+        ""Product"": ""ULSD"",
+        ""STCCCode"": ""2911331""
+      },
+      ""HazmatInformation"": {
+        ""UNNumber"": ""N/A"",
+        ""ProperShippingName"": ""N/A"",
+        ""HazardClass"": ""N/A"",
+        ""PackingGroup"": ""N/A"",
+        ""RQ"": ""N/A""
+      },
+      ""Placards"": ""N/A"",
+      ""SpecialCommodityInd"": ""N/A"",
+      ""PackagesDetails"": {
+        ""NumberOfPackages"": ""N/A"",
+        ""SealNumbers"": ""845414, 845416, 845301, 845303""
+      },
+      ""CarCapacity"": {
+        ""Gallons"": {
+          ""Table"": ""N/A"",
+          ""INS"": ""N/A"",
+          ""GL+VC"": ""N/A""
+        },
+        ""Outage"": {
+          ""Gallons"": ""N/A"",
+          ""Loaded"": {
+            ""OriginWeights"": {
+              ""Gallons"": {
+                ""GAL@60"": {
+                  ""Value"": ""N/A""
+                },
+                ""GAL"": {
+                  ""Value"": ""N/A""
+                }
+              },
+              ""VCF"": ""N/A"",
+              ""Density"": ""N/A"",
+              ""Temp"": ""N/A"",
+              ""LBS/Gal"": ""N/A"",
+              ""Litres"": ""N/A"",
+              ""Kilograms"": ""193603""
+            }
+          }
+        }
+      },
+      ""Comments"": ""N/A"",
+      ""Certification"": {
+        ""Statement"": ""N/A"",
+        ""SignedBy"": ""N/A"",
+        ""Signature"": ""N/A""
+      }
+    }
+  }
+}",ULSD,"52634 PASADENA, TX","60625 JAYHAWK, NV",SHELL TRADING CANADA,ULSD,,No Match,0.4488915205001831,hungarian,,,False
+124383-SHD-0525-160.pdf,"{
+  ""status"": ""success"",
+  ""message"": ""File uploaded and processed successfully"",
+  ""blob_url"": ""https://weaveagentsblob.blob.core.windows.net/agent-video/124383-SHD-0525-160.pdf?se=2025-07-11T13%3A26%3A01Z&sp=r&sv=2025-05-05&sr=b&sig=f80GZT5uxhZYZYPCrhqRe%2BH0nO8MZZyuUGoRoucdpyg%3D"",
+  ""mongo_id"": ""68710d75a6effb6ff3cc37f8"",
+  ""extracted_data"": {
+    ""ShippingDocument"": {
+      ""Title"": ""Bill of Lading for Individual Shipment (ITC Pattern ID: EAGLE PASS)"",
+      ""ShippersBOLNo"": ""SHD-0525-160"",
+      ""Revision"": ""N/A"",
+      ""EmergencyPlanPhone"": ""N/A"",
+      ""24HourNumberCanada"": ""N/A"",
+      ""EmergencyContactUS"": {
+        ""Contract"": ""N/A"",
+        ""Phone"": ""N/A""
+      },
+      ""CarInfo"": {
+        ""CarNo"": ""CBTX744260"",
+        ""BillType"": ""REVENUE"",
+        ""Destination"": ""60625 JAYHAWK, NV"",
+        ""Origin"": ""52634 PASADENA, TX"",
+        ""Routing"": ""PTRA HUSTN UP"",
+        ""SwitchingInfo"": ""S""
+      },
+      ""CareOf/ShipTo"": {
+        ""Name"": ""N/A"",
+        ""Address"": ""N/A""
+      },
+      ""Consignee"": {
+        ""Name"": ""SHELL TRADING US COMPANY"",
+        ""Address"": ""1000 MAIN STREET, LEVEL 12, HOUSTON, TX 77002""
+      },
+      ""Shipper"": {
+        ""Name"": ""SHELL TRADING CANADA"",
+        ""Address"": ""400 4TH AVENUE SW, CALGARY, AB T2P 0J1""
+      },
+      ""FreightCharges"": {
+        ""Name"": ""N/A"",
+        ""Address"": ""N/A""
+      },
+      ""Lessee"": ""Sect 7: No"",
+      ""FreightDetails"": {
+        ""Freight"": ""N/A"",
+        ""FOB"": ""N/A"",
+        ""Rule-11"": ""N/A"",
+        ""Parties"": {
+          ""11"": ""SHELL TRADING CANADA"",
+          ""1M"": ""SHELL TRADING CANADA"",
+          ""XX"": ""NEVADA GOLD MINES LLC, INTERCONTINENTAL TERMINALS COMPANY""
+        }
+      },
+      ""RRContract"": {
+        ""ReferenceNo"": ""N/A"",
+        ""AESExportInfoCodeExemptionNo"": ""N/A"",
+        ""ConsigneesOrderNumber"": ""N/A"",
+        ""LoadDate"": ""2025-05-21 08:31:16.25"",
+        ""PurchaseOrderNumber"": ""N/A"",
+        ""ScheduleAgreement"": ""N/A""
+      },
+      ""ProductDetails"": {
+        ""Product"": ""ULSD"",
+        ""STCCCode"": ""2911331""
+      },
+      ""HazmatInformation"": {
+        ""UNNumber"": ""N/A"",
+        ""ProperShippingName"": ""N/A"",
+        ""HazardClass"": ""N/A"",
+        ""PackingGroup"": ""N/A"",
+        ""RQ"": ""N/A""
+      },
+      ""Placards"": ""N/A"",
+      ""SpecialCommodityInd"": ""N/A"",
+      ""PackagesDetails"": {
+        ""NumberOfPackages"": ""N/A"",
+        ""SealNumbers"": ""845414, 845416, 845301, 845303""
+      },
+      ""CarCapacity"": {
+        ""Gallons"": {
+          ""Table"": ""N/A"",
+          ""INS"": ""N/A"",
+          ""GL+VC"": ""N/A""
+        },
+        ""Outage"": {
+          ""Gallons"": ""N/A"",
+          ""Loaded"": {
+            ""OriginWeights"": {
+              ""Gallons"": {
+                ""GAL@60"": {
+                  ""Value"": ""N/A""
+                },
+                ""GAL"": {
+                  ""Value"": ""N/A""
+                }
+              },
+              ""VCF"": ""N/A"",
+              ""Density"": ""N/A"",
+              ""Temp"": ""N/A"",
+              ""LBS/Gal"": ""N/A"",
+              ""Litres"": ""N/A"",
+              ""Kilograms"": ""193603""
+            }
+          }
+        }
+      },
+      ""Comments"": ""N/A"",
+      ""Certification"": {
+        ""Statement"": ""N/A"",
+        ""SignedBy"": ""N/A"",
+        ""Signature"": ""N/A""
+      }
+    }
+  }
+}",ULSD,"52634 PASADENA, TX","60625 JAYHAWK, NV",SHELL TRADING CANADA,ULSD,,No Match,0.6191496253013611,hungarian,,,False
+124383-SHD-0525-160.pdf,"{
+  ""status"": ""success"",
+  ""message"": ""File uploaded and processed successfully"",
+  ""blob_url"": ""https://weaveagentsblob.blob.core.windows.net/agent-video/124383-SHD-0525-160.pdf?se=2025-07-11T13%3A26%3A01Z&sp=r&sv=2025-05-05&sr=b&sig=f80GZT5uxhZYZYPCrhqRe%2BH0nO8MZZyuUGoRoucdpyg%3D"",
+  ""mongo_id"": ""68710d75a6effb6ff3cc37f8"",
+  ""extracted_data"": {
+    ""ShippingDocument"": {
+      ""Title"": ""Bill of Lading for Individual Shipment (ITC Pattern ID: EAGLE PASS)"",
+      ""ShippersBOLNo"": ""SHD-0525-160"",
+      ""Revision"": ""N/A"",
+      ""EmergencyPlanPhone"": ""N/A"",
+      ""24HourNumberCanada"": ""N/A"",
+      ""EmergencyContactUS"": {
+        ""Contract"": ""N/A"",
+        ""Phone"": ""N/A""
+      },
+      ""CarInfo"": {
+        ""CarNo"": ""CBTX744260"",
+        ""BillType"": ""REVENUE"",
+        ""Destination"": ""60625 JAYHAWK, NV"",
+        ""Origin"": ""52634 PASADENA, TX"",
+        ""Routing"": ""PTRA HUSTN UP"",
+        ""SwitchingInfo"": ""S""
+      },
+      ""CareOf/ShipTo"": {
+        ""Name"": ""N/A"",
+        ""Address"": ""N/A""
+      },
+      ""Consignee"": {
+        ""Name"": ""SHELL TRADING US COMPANY"",
+        ""Address"": ""1000 MAIN STREET, LEVEL 12, HOUSTON, TX 77002""
+      },
+      ""Shipper"": {
+        ""Name"": ""SHELL TRADING CANADA"",
+        ""Address"": ""400 4TH AVENUE SW, CALGARY, AB T2P 0J1""
+      },
+      ""FreightCharges"": {
+        ""Name"": ""N/A"",
+        ""Address"": ""N/A""
+      },
+      ""Lessee"": ""Sect 7: No"",
+      ""FreightDetails"": {
+        ""Freight"": ""N/A"",
+        ""FOB"": ""N/A"",
+        ""Rule-11"": ""N/A"",
+        ""Parties"": {
+          ""11"": ""SHELL TRADING CANADA"",
+          ""1M"": ""SHELL TRADING CANADA"",
+          ""XX"": ""NEVADA GOLD MINES LLC, INTERCONTINENTAL TERMINALS COMPANY""
+        }
+      },
+      ""RRContract"": {
+        ""ReferenceNo"": ""N/A"",
+        ""AESExportInfoCodeExemptionNo"": ""N/A"",
+        ""ConsigneesOrderNumber"": ""N/A"",
+        ""LoadDate"": ""2025-05-21 08:31:16.25"",
+        ""PurchaseOrderNumber"": ""N/A"",
+        ""ScheduleAgreement"": ""N/A""
+      },
+      ""ProductDetails"": {
+        ""Product"": ""ULSD"",
+        ""STCCCode"": ""2911331""
+      },
+      ""HazmatInformation"": {
+        ""UNNumber"": ""N/A"",
+        ""ProperShippingName"": ""N/A"",
+        ""HazardClass"": ""N/A"",
+        ""PackingGroup"": ""N/A"",
+        ""RQ"": ""N/A""
+      },
+      ""Placards"": ""N/A"",
+      ""SpecialCommodityInd"": ""N/A"",
+      ""PackagesDetails"": {
+        ""NumberOfPackages"": ""N/A"",
+        ""SealNumbers"": ""845414, 845416, 845301, 845303""
+      },
+      ""CarCapacity"": {
+        ""Gallons"": {
+          ""Table"": ""N/A"",
+          ""INS"": ""N/A"",
+          ""GL+VC"": ""N/A""
+        },
+        ""Outage"": {
+          ""Gallons"": ""N/A"",
+          ""Loaded"": {
+            ""OriginWeights"": {
+              ""Gallons"": {
+                ""GAL@60"": {
+                  ""Value"": ""N/A""
+                },
+                ""GAL"": {
+                  ""Value"": ""N/A""
+                }
+              },
+              ""VCF"": ""N/A"",
+              ""Density"": ""N/A"",
+              ""Temp"": ""N/A"",
+              ""LBS/Gal"": ""N/A"",
+              ""Litres"": ""N/A"",
+              ""Kilograms"": ""193603""
+            }
+          }
+        }
+      },
+      ""Comments"": ""N/A"",
+      ""Certification"": {
+        ""Statement"": ""N/A"",
+        ""SignedBy"": ""N/A"",
+        ""Signature"": ""N/A""
+      }
+    }
+  }
+}",ULSD,"52634 PASADENA, TX","60625 JAYHAWK, NV",SHELL TRADING CANADA,ULSD,,No Match,0.42044511437416077,hungarian,,,False

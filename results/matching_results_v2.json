@@ -1,0 +1,40 @@
+{
+    "extracted_name": "BENZENE",
+    "matched_name": "Benzene ASTM-2359 LTLD",
+    "matching_score": 0.8,
+    "reason": "Partial name match",
+    "etrm_code": 400007220.0,
+    "etrm_id": 2181,
+    "alternatives": [
+        {
+            "matched_name": "INT CHEM Benzene ASTM-D5871 US",
+            "score": 0.8,
+            "code": 400010780.0,
+            "id": 2511
+        },
+        {
+            "matched_name": "INT BZHC Benzene Concentrate 55% US",
+            "score": 0.8,
+            "code": 400011663.0,
+            "id": 2649
+        },
+        {
+            "matched_name": "INT BZHC Benzene Concentrate 60% US",
+            "score": 0.8,
+            "code": 400011664.0,
+            "id": 2650
+        },
+        {
+            "matched_name": "INT BZHC Benzene Concentrate 65% US",
+            "score": 0.8,
+            "code": 400011665.0,
+            "id": 2651
+        },
+        {
+            "matched_name": "INT BZHC Benzene Concentrate 70% US",
+            "score": 0.8,
+            "code": 400011666.0,
+            "id": 2652
+        }
+    ]
+}
